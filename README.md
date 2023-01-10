@@ -11,3 +11,7 @@ Inicializar las migraciones: Ejecute el comando python manage.py migrate en *nix
 Ejecutar el servidor de prueba: Ejecute el comando python manage.py runserver en *nix o py manage.py runserver en Windows.
 Acceder a la aplicación en el navegador: Abra su navegador e ingrese a la dirección "localhost:8000/", debería poder ver cómo se ejecuta la aplicación de blog de viajes.
 En resumen, el sistema de gestión de contenido para un blog de viajes te permite crear, buscar, leer, actualizar y eliminar registros de tus viajes y compartir tus experiencias con imágenes. Los pasos para instalar y configurar el sistema incluyen verificar la versión de Python, instalar las dependencias, configurar la aplicación Django y ejecutar el servidor de prueba.
+
+Link Explicativo: 
+
+https://youtu.be/sW1exGGtFJk
